@@ -1,2 +1,2 @@
 # pythone-
-a process that is my  python's learning
+学习python的过程
